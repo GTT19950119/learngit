@@ -1,5 +1,3 @@
-Git is a version control system.
-
-Git is a distributed version control system.
-Git is free software .
-
+Kit is a version control system.
+Git has a multable index callde tage.
+Git is free software.
