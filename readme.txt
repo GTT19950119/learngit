@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-brother_yi love ting ting
-=======
-brother_yi love ting ting.
->>>>>>> love1
+what i want to do is sleep
