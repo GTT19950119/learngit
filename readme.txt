@@ -1,1 +1,5 @@
-brother_yi Love ting ting
+<<<<<<< HEAD
+brother_yi love ting ting
+=======
+brother_yi love ting ting.
+>>>>>>> love1
